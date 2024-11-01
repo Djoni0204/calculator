@@ -16,7 +16,7 @@ tkinter is easily installed follow these steps
 Tkinter should already be included with your python installation, but if you encounter any issues try installing it manually
 
 #### For macOS
-Tkinter is included in most python installation, if you need it tyoe the command
+Tkinter is included in most python installation, if you need it type the command
 ```bash
 brew install python-tk
 ```
